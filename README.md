@@ -9,6 +9,12 @@ thoughts are processed using NLP and it's nltk library through which thoughts ar
 
 # To Run project:
 
+  Steps to run project-
+  1.Open Terminal
+  2.Make the project directory as current directory
+  3.Run api.py file
+  4.Copy the localhost address from output and paste it in chrome to see the website.
+
   cd <path/to/your/project>
   $python api.py<br>
 
