@@ -9,8 +9,8 @@ thoughts are processed using NLP and it's nltk library through which thoughts ar
 
 # To Run project:
 
-cd <path/to/your/project>
-$python api.py<br>
+  cd <path/to/your/project>
+  $python api.py<br>
 
 # Website Frontpage
 
@@ -20,4 +20,5 @@ $python api.py<br>
 
 ![](analysis.png)
 
-# Heroku Link : https://mental-health-analysis.herokuapp.com/ 
+# Heroku Link : 
+  https://mental-health-analysis.herokuapp.com/ 
