@@ -15,8 +15,12 @@ thoughts are processed using NLP and it's nltk library through which thoughts ar
   3.Run api.py file<br>
   4.Copy the localhost address from output and paste it in chrome to see the website.<br>
 
+  ```
+  
   cd <path/to/your/project><br>
   $python api.py<br>
+  
+  ```
 
 # Website Frontpage
 
